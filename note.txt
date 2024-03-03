@@ -1,0 +1,3 @@
+Belajar Git.
+* Membuat Git local repository
+~ Menginisialisasi Git => git init.
