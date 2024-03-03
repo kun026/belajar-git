@@ -6,3 +6,5 @@ Belajar Git.
 ~ Menyimpan perubahan yang telah di-add ke dalam staging area ke dalam repositori Git-
   sebagai bagian dari riwayat versi => git commit -m 'Pesan'
 ~ Menampilkan catatan sejarah commit pada repositori => git log
+~ menampilkan perbedaan antara dua titik dalam sejarah proyek Git => git diff <nama-file>
+~ beralih ke branch atau commit tertentu => git checkout <nama-file>
