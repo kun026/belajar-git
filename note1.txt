@@ -1,0 +1,8 @@
+Belajar Git.
+* Membuat Git local repository
+~ Menginisialisasi Git => git init
+~ Menambahkan perubahan pada file atau direktori ke dalam staging area. => git add
+~ Menampilkan status dari proyek Git saat ini => git status
+~ Menyimpan perubahan yang telah di-add ke dalam staging area ke dalam repositori Git-
+  sebagai bagian dari riwayat versi => git commit -m 'Pesan'
+~ Menampilkan catatan sejarah commit pada repositori => git log
